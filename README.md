@@ -1,15 +1,15 @@
-# 🎲 Jogo Par ou Ímpar em Dart 🚀
+# 🎲 Even or Odd Game in Dart 🚀
 
-Bem-vindo ao Jogo Par ou Ímpar em Dart! Prepare-se para desafiar o computador em uma batalha de números, onde cada escolha é uma chance de vitória ou derrota! 🎯💥
+Welcome to the Even or Odd Game in Dart! Get ready to challenge the computer in a battle of numbers, where every choice is a chance for victory or defeat! 🎯💥
 
-## Sobre o Jogo
+## About the Game
 
-Este é um jogo simples e divertido onde você escolhe entre par ou ímpar e seleciona um número entre 1 e 10. O computador fará o mesmo. A soma dos números será calculada e se o resultado for par e você escolheu par (ou ímpar e escolheu ímpar), você ganha! Senão, o computador vence. Prepare-se para testar sua sorte e sua estratégia! 🍀🤖
+This is a simple and fun game where you choose between even or odd and select a number between 1 and 10. The computer will do the same. The sum of the numbers will be calculated, and if the result is even and you chose even (or odd and you chose odd), you win! Otherwise, the computer wins. Get ready to test your luck and your strategy! 🍀🤖
 
-## Divirta-se!
+## Have fun!
 
-Que a sorte esteja a seu favor enquanto você embarca nesta jornada de desafios numéricos! Que cada escolha seja uma aventura e cada vitória uma celebração! Prepare-se para horas de diversão e entretenimento com o Jogo Par ou Ímpar em Dart! 🎉🎲
+May luck be on your side as you embark on this journey of numerical challenges! May every choice be an adventure and every victory a celebration! Get ready for hours of fun and entertainment with the Even or Odd Game in Dart! 🎉🎲
 
 ---
 
-"Que os números estejam sempre ao seu lado e que a diversão nunca acabe!" 🚀✨
+"May the numbers always be on your side and may the fun never end!" 🚀✨
